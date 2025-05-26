@@ -22,7 +22,7 @@ You can download the dataset from [🤗 Hugging Face](https://huggingface.co/dat
 - `check_response_code`: Indicator of the response status (0, 1, or 2)  
 - `check_response_type`: Specific type of error detected (if applicable)
 
-### `tools_description.json` (4,793 tool documents)
+### `tools_description.jsonl` (4,722 tool documents)
 
 - `name`: Tool name in the format "category.package.tool"  
 - `parameters`: Specification of tool parameters  
