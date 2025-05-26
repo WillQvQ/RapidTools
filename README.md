@@ -5,6 +5,8 @@
 You can download the dataset from [🤗 Hugging Face](https://huggingface.co/datasets/WillQvQ/RapidTools/tree/main).  
 > RapidTools uses keyword-based filtering to retain appropriate data. Due to minor changes in the filtering rules, version 1.0.1 includes slightly more data than what was reported in the paper.
 
+**NEW**: A [user-friendly version](https://huggingface.co/datasets/WillQvQ/RapidTools/blob/main/data_for_UnifiedToolHub.jsonl) of the dataset is now available for [UnifiedToolHub](https://github.com/OpenMOSS/UnifiedToolHub), making it easier to load and use.
+
 ## Dataset Structure
 
 ### `data_with_response.jsonl` (203,472 instances)
